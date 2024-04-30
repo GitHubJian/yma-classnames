@@ -1,0 +1,10 @@
+{
+    "name": "yma-classnames",
+    "version": "1.0.0",
+    "description": "将多种数据类型的 classname 进行合并，并转为字符串",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
